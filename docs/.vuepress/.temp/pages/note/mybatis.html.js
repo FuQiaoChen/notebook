@@ -1,7 +1,7 @@
 export const data = {
   "key": "v-d9af9fec",
   "path": "/note/mybatis.html",
-  "title": "",
+  "title": "bbbbbbbbbbbbbbbbbbbb",
   "lang": "zh-CN",
   "frontmatter": {},
   "excerpt": "",
