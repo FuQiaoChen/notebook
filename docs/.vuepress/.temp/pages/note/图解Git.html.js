@@ -86,19 +86,15 @@ export const data = {
       "children": []
     }
   ],
-  "git": {},
+  "git": {
+    "updatedTime": 1649787200000,
+    "contributors": [
+      {
+        "name": "FuQiaoChen",
+        "email": "452250588@qq.com",
+        "commits": 1
+      }
+    ]
+  },
   "filePathRelative": "note/图解Git.md"
-}
-
-if (import.meta.webpackHot) {
-  import.meta.webpackHot.accept()
-  if (__VUE_HMR_RUNTIME__.updatePageData) {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  }
-}
-
-if (import.meta.hot) {
-  import.meta.hot.accept(({ data }) => {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  })
 }
