@@ -26,13 +26,21 @@ export default defineUserConfig<DefaultThemeOptions>({
                     link: '/note/',
                 },
                 {
+                    text: '图解git',
+                    link: '/note/图解git.html',
+                },
+                {
                     text: 'ts',
                     link: '/note/typescript.html',
                 },
                 {
                     text: 'vue3',
                     link: '/note/vue3.html',
-                }],
+                }, {
+                    text: 'mybatis',
+                    link: '/note/mybatis.html',
+                }
+                ],
             }
         ],
     },
