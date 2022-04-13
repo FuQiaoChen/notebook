@@ -3,7 +3,7 @@ import type { DefaultThemeOptions } from 'vuepress'
 
 export default defineUserConfig<DefaultThemeOptions>({
     // 站点配置
-    base: "/notebook/",
+    //base: "/notebook/",
     lang: 'zh-CN',
     title: 'Joey',
     description: '练习',
